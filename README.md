@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A passionate frontend developer from UK</h3>
+<h3 align="center">A Passionate Software developer from UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musman2002&label=Profile%20views&color=0e75b6&style=flat" alt="musman2002" /> </p>
 
