@@ -104,8 +104,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=musman2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-### <div align="center"> Spotify
-
+### <div align="center"> Spotify>
+<br/>  
 
 ### <div align="center"> Profile Visits  
 <div align="center">
