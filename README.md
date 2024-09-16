@@ -3,7 +3,8 @@
 </div>  
   
 
-## <div align="center">I'm Muhammad Usman, a full-time student developer 👨‍💻 working remotely since 2021 🚀</div>  
+## <div align="center">I'm Muhammad Usman, </div>  
+## <div align="center"> A full-time Student developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 - 🔭 I’m currently working on [RISC-V](https://github.com/musman2002/SharpRISCV/tree/master) In Collabration With [Muhammad Rizwan](https://github.com/rizwan3d/SharpRISCV)
 
