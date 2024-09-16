@@ -107,8 +107,7 @@
 
 
 <br/>  
-[!Listening Now](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1fyze9qeoon9yv1ehdg27e3u8&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1fyze9qeoon9yv1ehdg27e3u8&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/1fyze9qeoon9yv1ehdg27e3u8)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1fyze9qeoon9yv1ehdg27e3u8&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>  
 
 
