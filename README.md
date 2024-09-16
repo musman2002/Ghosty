@@ -104,12 +104,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=musman2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-### <div align="center"> Spotify </div>  
-<br/>  
+
+ 
 
 ### <div align="center"> Profile Visits  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=musman2002&&style=flat-square" align="center"  height="50" />
+<img src="https://komarev.com/ghpvc/?username=musman2002&&style=flat-square" align="center"  height="20" />
 </div>  
   
 
