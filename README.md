@@ -104,17 +104,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=musman2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-<br/>  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1fyze9qeoon9yv1ehdg27e3u8&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<br/>  
-
+### <div align="center"> Spotify
 
 
 ### <div align="center"> Profile Visits  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=musman2002&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=musman2002&&style=flat-square" align="center"  height="50" />
 </div>  
   
 
